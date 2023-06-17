@@ -91,3 +91,24 @@ p {
     white-space: normal;
 }
 
+.html-tutorial span {
+    background-color: #e3e3e3;
+    color: red;
+    font-size: 18px;
+    line-height: 22px;
+
+}
+
+h1,h2 {
+display: flex;
+    justify-content: center;
+}
+
+.program {
+    margin-left: 10px;
+    padding: 5px 10px;
+    max-width: 650px;
+    background-color: #e3e3e3;
+    height: fit-content;
+} 
+
